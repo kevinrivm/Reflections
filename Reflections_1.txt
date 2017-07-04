@@ -1,0 +1,2 @@
+Git te permite guardar tus versiones de manera efectiva a fin de que 
+puedas llevar un control de tu codigo.
